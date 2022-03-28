@@ -1,0 +1,33 @@
+.game1 ,.game2{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;  
+    position: relative;
+}
+.game1 input,.game2 input{
+    padding: 10px;
+    border: none;
+    outline: none;
+    background-color: #eeeaea;
+    border-radius: 6px;
+}
+button{
+    outline: none;
+}
+.eye{
+    position: absolute;
+    top: 68%;
+    right: 48%;
+}
+#span{
+    display: inline-block;
+    margin-left: 39%;
+    margin-top: 5px;
+}
+#span2{
+    display: inline-block;
+    margin-left: 39%;
+    margin-top: 5px;
+}
+
+
